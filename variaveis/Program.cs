@@ -17,7 +17,7 @@ bool estudante = true;
 char genero = 'F';
 
 // tipo de variavel para valores constantes; PI = 3.14
-const double PI = 3.14;
+const double pi = 3.14;
 
 // forma 1
 Console.WriteLine(nome);
@@ -30,4 +30,4 @@ Console.WriteLine("0" + "nome" + "tem" +idade + "anos");
 
 // ultilizando \n para pular uma linha
 // semelhante ao <br> do HTML que já ultilizamos
-Console.WriteLine($"\n 0 valor de pi é: {pi}";
+Console.WriteLine($"\n 0 valor de pi é: {pi}");

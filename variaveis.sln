@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variaveis", "variaveis\variaveis.csproj", "{D9F38C66-FC49-4A11-9034-C9B05DB1BD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertertendovalores", "variaveis\convertertendovalores\convertertendovalores.csproj", "{CAA49DA4-EACC-44DE-9499-D13137C530E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9F38C66-FC49-4A11-9034-C9B05DB1BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9F38C66-FC49-4A11-9034-C9B05DB1BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9F38C66-FC49-4A11-9034-C9B05DB1BD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA49DA4-EACC-44DE-9499-D13137C530E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA49DA4-EACC-44DE-9499-D13137C530E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA49DA4-EACC-44DE-9499-D13137C530E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA49DA4-EACC-44DE-9499-D13137C530E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
